@@ -1,9 +1,9 @@
 # DictionaryWithBtree
-__1.Cách chạy project:__
+__1. Cách chạy project:__
 
    - cd vào thu mục project, sử dụng lệnh "make" để chạy chương trình.
    
-__2.Mô tả file nguồn:__
+__2. Mô tả file nguồn:__
 
    - Gồm 2 file chính "gtk_interface.c" và "g_callfunction.h".
    
